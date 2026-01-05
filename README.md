@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☠️ Fsociety V3
+#  Fsociety V3
 ### Stress Testing Tool · Python GUI
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -63,6 +63,7 @@ python fsociety_v3.py
 <div align="center">
  
 # Bsz Hackers — BSZ DDoS (Web Edition)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <br>
 
@@ -70,6 +71,9 @@ python fsociety_v3.py
 
 ### A diferencia de soluciones de escritorio o scripts backend, esta versión funciona 100% del lado del cliente, aprovechando la **API fetch** del navegador para simular múltiples peticiones concurrentes hacia un objetivo específico.
 </div>
+
+<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | Característica | Fsociety V3 (Python)         | BSZ DDoS (Web)                      |
 | -------------- | ---------------------------- | ----------------------------------- |
@@ -88,6 +92,8 @@ python fsociety_v3.py
 - 🔌 Conexiones persistentes (Keep-Alive)
 - ⚡ Ejecución por lotes con concurrencia controlada
 - 📈 Cálculo de peticiones por segundo (RPS)
+- 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <img width="1479" height="688" alt="image" src="https://github.com/user-attachments/assets/8f1060e2-6bb8-4765-9100-dae66d9e6d30" />
 
