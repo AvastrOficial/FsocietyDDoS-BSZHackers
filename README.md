@@ -61,9 +61,9 @@ python fsociety_v3.py
 
 ![FsocietyV3](https://github.com/user-attachments/assets/841d9376-d3f4-4406-8198-1e6d30a9a94c)
 <div align="center">
- 
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Bsz Hackers — BSZ DDoS (Web Edition)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 <br>
 
@@ -73,7 +73,7 @@ python fsociety_v3.py
 </div>
 
 <br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 | Característica | Fsociety V3 (Python)         | BSZ DDoS (Web)                      |
 | -------------- | ---------------------------- | ----------------------------------- |
