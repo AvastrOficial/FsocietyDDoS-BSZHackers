@@ -92,8 +92,8 @@ python fsociety_v3.py
 - 🔌 Conexiones persistentes (Keep-Alive)
 - ⚡ Ejecución por lotes con concurrencia controlada
 - 📈 Cálculo de peticiones por segundo (RPS)
-- 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  
+
 
 <img width="1479" height="688" alt="image" src="https://github.com/user-attachments/assets/8f1060e2-6bb8-4765-9100-dae66d9e6d30" />
 
