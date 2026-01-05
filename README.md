@@ -60,9 +60,11 @@ python fsociety_v3.py
 ```
 
 ![FsocietyV3](https://github.com/user-attachments/assets/841d9376-d3f4-4406-8198-1e6d30a9a94c)
-
-# Bsz Hackers — BSZ DDoS (Web Edition)
 <div align="center">
+ Bsz Hackers — BSZ DDoS (Web Edition)
+
+<br>
+
 **BSZ DDoS es una herramienta web-based desarrollada en HTML, CSS y JavaScript puro, diseñada para realizar pruebas de carga y estrés controladas directamente desde el navegador, sin necesidad de instalación ni dependencias externas.**
 
 ### A diferencia de soluciones de escritorio o scripts backend, esta versión funciona 100% del lado del cliente, aprovechando la **API fetch** del navegador para simular múltiples peticiones concurrentes hacia un objetivo específico.
